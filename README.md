@@ -1,5 +1,11 @@
 # herbivory_global_mapping
-This repository contains all codes for the manuscript is entitled 'Global insect herbivory and its response to climate change' by Liu et al. (202X).
+This repository contains all codes for the paper is entitled 'Global insect herbivory and its response to climate change' by Liu et al. (2024).
+
+Mu Liu, Peixi Jiang, Jonathan M. Chase, Xiang Liu,
+Global insect herbivory and its response to climate change,
+Current Biology,
+2024,
+https://doi.org/10.1016/j.cub.2024.04.062.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***File******************************************
 
